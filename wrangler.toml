@@ -1,0 +1,12 @@
+name = "astro-portfolio"
+compatibility_date = "2026-06-14"
+
+[[kv_namespaces]]
+binding = "SESSION"
+id = "22a3751890084a6592da0b845b2313b8"   
+
+[build]
+command = "npm run build"
+cwd = "."
+watch_dir = "src"
+
